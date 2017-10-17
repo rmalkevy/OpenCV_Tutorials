@@ -1,3 +1,0 @@
-/Users/Henprokuror/CLionProjects/OpenCV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Henprokuror/CLionProjects/OpenCV/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Henprokuror/CLionProjects/OpenCV/cmake-build-debug/CMakeFiles/OpenCV.dir
